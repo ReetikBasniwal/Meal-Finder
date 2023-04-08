@@ -11,3 +11,5 @@ The Meal Finder allows users to watch videos of the recipe they choose.
 # Usage
 1. Open the Meal Finder link in your device.
 2. Search for recipes based on specific ingredients or dietary preferences.
+
+## Demo
